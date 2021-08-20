@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1004998202851",
+    "project_id": "fir-iot-bfe6b",
+    "storage_bucket": "fir-iot-bfe6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004998202851:android:14e4493cd890f843a33cd6",
+        "android_client_info": {
+          "package_name": "com.example.automation_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004998202851-8f6k5j075b220etm52ngfr9bo9can6lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg1O3AASWFXV_TWmCJewFyj5YzNQy4C94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004998202851-8f6k5j075b220etm52ngfr9bo9can6lc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
